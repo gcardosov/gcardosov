@@ -1,6 +1,7 @@
 ## Hi I'm Gera 👋
 
-<img src="https://raw.githubusercontent.com/gcardosov/gcardosov/main/banner_qa_gerardo.png" alt="Banner QA Gerardo" style="width:100%;"/>
+<img width="1536" height="1024" alt="ChatGPT Image 15 jul 2025, 16_15_24" src="https://github.com/user-attachments/assets/a962d44c-1b6a-446b-9c18-a3965f036c3f" />
+
 
 # 👋 Hi there! I'm @gcardosov
 
@@ -8,6 +9,7 @@
 🧪 Manual and 🤖 Automated testing (Selenium + JUnit)  
 🎓 Currently studying remotely at a public university in Mexico  
 💡 Passionate about software quality and continuous learning
+<img width="1536" height="1024" alt="banner_qa_gerardo" src="https://github.com/user-attachments/assets/c1fa935e-a765-453d-8cdc-e76b41771bfb" />
 
 ---
 
@@ -30,8 +32,8 @@
 
 ## 📫 Contact
 
-- 📧 Email: gcardosov@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/gcardosov](https://linkedin.com/in/gcardosov)
+- 📧 Email: ger9047@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/geracv](https://linkedin.com/in/geracv)
 
 ---
 
