@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi I'm Gera 👋
 
-<!--
-**gcardosov/gcardosov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/gcardosov/gcardosov/main/banner_qa_gerardo.png" alt="Banner QA Gerardo" style="width:100%;"/>
 
-Here are some ideas to get you started:
+# 👋 Hi there! I'm @gcardosov
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **QA Engineer** with 3 years of experience in  
+🧪 Manual and 🤖 Automated testing (Selenium + JUnit)  
+🎓 Currently studying remotely at a public university in Mexico  
+💡 Passionate about software quality and continuous learning
+
+---
+
+## 🛠️ Tools & Technologies
+
+- 💻 Java, Maven, Git
+- 🔎 Selenium WebDriver, JUnit, Cucumber
+- 📋 TestRail, Jira, Postman
+- ⚙️ CI/CD: GitHub Actions, Jenkins
+
+---
+
+## 📂 Projects
+
+- 🧪 Test automation for e-commerce checkout flow  
+- 🛠️ UI and API testing integration  
+- 📊 Custom reports generation for test results
+
+---
+
+## 📫 Contact
+
+- 📧 Email: gcardosov@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/gcardosov](https://linkedin.com/in/gcardosov)
+
+---
+
+> ✨ _"Breaking code gently to make it stronger."_  
