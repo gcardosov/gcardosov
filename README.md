@@ -9,7 +9,7 @@
 🧪 Manual and 🤖 Automated testing (Selenium + JUnit)  
 🎓 Currently studying remotely at a public university in Mexico  
 💡 Passionate about software quality and continuous learning
-<img width="1536" height="1024" alt="banner_qa_gerardo" src="https://github.com/user-attachments/assets/c1fa935e-a765-453d-8cdc-e76b41771bfb" />
+
 
 ---
 
