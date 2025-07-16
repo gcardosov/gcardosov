@@ -1,4 +1,4 @@
-## Hi I'm Gera 👋
+## Hola soy Gerha! 👋
 
 <img width="700" height="400" alt="ChatGPT Image 15 jul 2025, 16_15_24" src="https://github.com/user-attachments/assets/a962d44c-1b6a-446b-9c18-a3965f036c3f" />
 
