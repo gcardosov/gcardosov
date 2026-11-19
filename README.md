@@ -5,7 +5,7 @@
 
 # 👋 Hi there! I'm @gcardosov
 
-🎯 **QA Engineer** with 3 years of experience in  
+🎯 **QA Engineer** with 6 years of experience in  
 🧪 Manual and 🤖 Automated testing (Selenium + JUnit)  
 🎓 Currently studying remotely at a public university in Mexico  
 💡 Passionate about software quality and continuous learning
